@@ -1,11 +1,9 @@
-# Informatics Practitioner Lecture Series 🎓
-*Program Studi Teknik Informatika, Universitas Bengkulu*
-
+# Informatics Practitioner Lecture Series
 Repositori ini berisi rangkuman materi, studi kasus, dan implementasi kode Python dari 6 sesi **Informatics Practitioner Lecture Series** yang menghubungkan pengetahuan akademik dengan aplikasi industri dan teknologi global.
 
 ---
 
-## 📚 Daftar Materi & Pembahasan
+## Daftar Materi & Pembahasan
 
 ### 1. Make Sense of Data with Analysis and AI
 * **Pemateri:** Andria Arisal (Peneliti BRIN)
@@ -47,7 +45,7 @@ Repositori ini berisi rangkuman materi, studi kasus, dan implementasi kode Pytho
 
 ---
 
-## 💻 Studi Kasus & Implementasi Kode Python
+##  Studi Kasus & Implementasi Kode Python
 
 Repositori ini mencakup implementasi Python untuk berbagai skenario analitis:
 
