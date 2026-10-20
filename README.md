@@ -64,22 +64,3 @@ Repositori ini mencakup implementasi Python untuk berbagai skenario analitis:
 6. **Klasifikasi Pemicu Deforestasi Berbasis Data Satelit (Remote Sensing & AI):**
    * Pemodelan multi-fitur spasial untuk deteksi penyebab kerusakan hutan.
 
----
-
-## ⚙️ Cara Menjalankan Kode
-
-1. **Clone Repositori:**
-   ```bash
-   git clone https://github.com/username/repository-name.git
-   cd repository-name
-   ```
-
-2. **Instal Pustaka Dependensi:**
-   ```bash
-   pip install pandas numpy scikit-learn matplotlib
-   ```
-
-3. **Jalankan Skrip Python:**
-   ```bash
-   python script_name.py
-   ```
