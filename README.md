@@ -1,7 +1,8 @@
 # Informatics Practitioner Lecture Series
 Repositori ini berisi rangkuman materi, studi kasus, dan implementasi kode Python dari 6 sesi **Informatics Practitioner Lecture Series** yang menghubungkan pengetahuan akademik dengan aplikasi industri dan teknologi global.
-Nama : Arya Pratama
-NPM  : G1A024061
+
+* Nama: Arya Pratama
+* NPM : G1A024061
 ---
 
 ## Daftar Materi & Pembahasan
